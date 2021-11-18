@@ -24,3 +24,11 @@ and connected java with the database, and tested it.
 
 ## Demo Video
 
+
+
+
+https://user-images.githubusercontent.com/94527061/142370221-33dd835b-b7f4-4b99-94f8-f60affa290d5.mp4
+
+
+
+
